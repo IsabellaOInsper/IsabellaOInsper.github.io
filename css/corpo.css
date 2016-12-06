@@ -1,0 +1,378 @@
+body {
+ font-size: 18px;
+ height:1743px;
+ width:980px;	
+ background-image: url('../imagens/fundo.png');
+}
+.botao1 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/requerimentos.png');
+	background-size: 17em 17em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 13%;
+	height: 17em;
+	width: 17em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao11 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/requerimentos.png');
+	background-size: 17em 17em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 13%;
+	height: 17em;
+	width: 17em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao12 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/atc.png');
+	background-size: 16em 16em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 13%;
+	height: 17em;
+	width: 17em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao13 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/boletim.png');
+	background-size: 17em 17em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 13%;
+	height: 17em;
+	width: 17em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao14 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/calendario.png');
+	background-size: 16em 16em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 13%;
+	height: 17em;
+	width: 17em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao15 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/fale.png');
+	background-size: 16em 16em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 13%;
+	height: 17em;
+	width: 17em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao16 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/conf.png');
+	background-size: 17em 17em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 13%;
+	height: 17em;
+	width: 17em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao21 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/natação.png');
+	background-size: 17em 17em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 13%;
+	height: 17em;
+	width: 17em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao22 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/judo.png');
+	background-size: 16em 16em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 13%;
+	height: 17em;
+	width: 17em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao23 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/futebol.jpeg');
+	background-size: 17em 17em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 13%;
+	height: 17em;
+	width: 17em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao24 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/robo.png');
+	background-size: 16em 16em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 13%;
+	height: 17em;
+	width: 17em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao25 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/ler.png');
+	background-size: 16em 16em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 13%;
+	height: 17em;
+	width: 17em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao26 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/danca.png');
+	background-size: 17em 17em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 13%;
+	height: 17em;
+	width: 17em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao31 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/female.png');
+	background-size: 16em 16em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 44%;
+	height: 17em;
+	width: 17em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao32 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/male.png');
+	background-size: 17em 17em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 44%;
+	height: 17em;
+	width: 17em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao33 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/female.png');
+	background-size: 16em 16em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 1%;
+	height: 45em;
+	width: 17em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao34 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/male.png');
+	background-size: 17em 17em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 1%;
+	height: 45em;
+	width: 17em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao1:hover {
+	color: #2F2D2E;
+    background-color: #BA0126;
+	text-decoration: none;
+	border-color: #CC4661;
+	
+}
+.botao1:visited {
+	color:#2F2D2E;
+    background-color: #BA0126;
+	text-decoration: none;
+	
+}
+.botao1-link {
+    font-size: 1em;
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 0rem;
+  text-align: center;
+}
+.botao2 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-size: 5em 25em;
+	margin: 23px;
+	margin-bottom: 133px;
+	border-radius: 13%;
+	height: 5em;
+	width: 25em;
+	position: relative;
+	top: 340px;
+	left: 230px;
+}
+.botao2:hover {
+	color: #2F2D2E;
+    background-color: #BA0126;
+	text-decoration: none;
+	border-color: #CC4661;
+	
+}
+.botao2:visited {
+	color:#2F2D2E;
+    background-color: #BA0126;
+	text-decoration: none;
+	
+}
+.botao2-link {
+    font-size: 1em;
+}
+.cor_do_cabecalho {
+	color: #D7C0A7;
+	background-color: #2F2D2E;
+	z-index: +2
+
+	position: absolute;
+}
+{background-color: #F7F3F5;}
