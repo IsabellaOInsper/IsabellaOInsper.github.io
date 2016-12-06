@@ -276,13 +276,13 @@ body {
 }
 .botao33 {
 	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
-	border: .5em solid #BA0126;
+	border: 0em solid #BA0126;
 	font-size: 1em;
 	line-height: 1.1em;
 	color: #2F2D2E;
 	background-color: #BA0126;
-	background-image: url('../imagens/female.png');
-	background-size: 16em 16em;
+	background-image: url('../imagens/notas.jpg');
+	background-size: 17em 45em;
 	margin: 23px;
 	margin-bottom: 55px;
 	border-radius: 1%;
@@ -293,6 +293,42 @@ body {
 	left: 140px;
 }
 .botao34 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: 0em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/notas.jpg');
+	background-size: 17em 45em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 1%;
+	height: 45em;
+	width: 17em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao41 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/female.png');
+	background-size: 16em 16em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 1%;
+	height: 10em;
+	width: 40em;
+	position: relative;
+	top: 340px;
+	left: 100px;
+}
+.botao42 {
 	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
 	border: .5em solid #BA0126;
 	font-size: 1em;
@@ -375,4 +411,58 @@ footer {
 
 	position: absolute;
 }
-{background-color: #F7F3F5;}
+
+.conf{
+ font-size: 18px;
+ height:1743px;
+ width:980px;	
+ background-image: url('../imagens/configuracao.png');
+}
+.onoffswitch {
+    position: relative; 
+    width: 90px;
+    top: 480px;
+	left: 820px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+.onoffswitch-checkbox {
+    display: none;
+}
+.onoffswitch-label {
+    display: block; overflow: hidden; cursor: pointer;
+    border: 2px solid #999999; border-radius: 20px;
+}
+.onoffswitch-inner {
+    display: block; width: 200%; margin-left: -100%;
+    transition: margin 0.3s ease-in 0s;
+}
+.onoffswitch-inner:before, .onoffswitch-inner:after {
+    display: block; float: left; width: 50%; height: 30px; padding: 0; line-height: 30px;
+    font-size: 14px; color: white; font-family: Trebuchet, Arial, sans-serif; font-weight: bold;
+    box-sizing: border-box;
+}
+.onoffswitch-inner:before {
+    content: "ON";
+    padding-left: 10px;
+    background-color: #1FDB18; color: #FFFFFF;
+}
+.onoffswitch-inner:after {
+    content: "OFF";
+    padding-right: 10px;
+    background-color: #FFFFF2; color: #999999;
+    text-align: right;
+}
+.onoffswitch-switch {
+    display: block; width: 18px; margin: 6px;
+    background: #FFFFFF;
+    position: absolute; top: 0; bottom: 0;
+    right: 56px;
+    border: 2px solid #999999; border-radius: 20px;
+    transition: all 0.3s ease-in 0s; 
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner {
+    margin-left: 0;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-switch {
+    right: 0px; 
+}
