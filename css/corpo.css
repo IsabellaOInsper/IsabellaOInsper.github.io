@@ -132,12 +132,12 @@ body {
 }
 .botao21 {
 	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
-	border: .5em solid #BA0126;
+	border: .5em solid #143642;
 	font-size: 1em;
 	line-height: 1.1em;
 	color: #2F2D2E;
-	background-color: #BA0126;
-	background-image: url('../imagens/natação.png');
+	background-color: #143642;
+	background-image: url('../imagens/natacao.png');
 	background-size: 17em 17em;
 	margin: 23px;
 	margin-bottom: 55px;
@@ -150,11 +150,11 @@ body {
 }
 .botao22 {
 	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
-	border: .5em solid #BA0126;
+	border: .5em solid #143642;
 	font-size: 1em;
 	line-height: 1.1em;
 	color: #2F2D2E;
-	background-color: #BA0126;
+	background-color: #143642;
 	background-image: url('../imagens/judo.png');
 	background-size: 16em 16em;
 	margin: 23px;
@@ -168,12 +168,12 @@ body {
 }
 .botao23 {
 	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
-	border: .5em solid #BA0126;
+	border: .5em solid #143642;
 	font-size: 1em;
 	line-height: 1.1em;
 	color: #2F2D2E;
-	background-color: #BA0126;
-	background-image: url('../imagens/futebol.jpeg');
+	background-color: #143642;
+	background-image: url('../imagens/futebol.png');
 	background-size: 17em 17em;
 	margin: 23px;
 	margin-bottom: 55px;
@@ -186,11 +186,11 @@ body {
 }
 .botao24 {
 	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
-	border: .5em solid #BA0126;
+	border: .5em solid #143642;
 	font-size: 1em;
 	line-height: 1.1em;
 	color: #2F2D2E;
-	background-color: #BA0126;
+	background-color: #143642;
 	background-image: url('../imagens/robo.png');
 	background-size: 16em 16em;
 	margin: 23px;
@@ -204,11 +204,11 @@ body {
 }
 .botao25 {
 	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
-	border: .5em solid #BA0126;
+	border: .5em solid #143642;
 	font-size: 1em;
 	line-height: 1.1em;
 	color: #2F2D2E;
-	background-color: #BA0126;
+	background-color: #143642;
 	background-image: url('../imagens/ler.png');
 	background-size: 16em 16em;
 	margin: 23px;
@@ -222,11 +222,11 @@ body {
 }
 .botao26 {
 	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
-	border: .5em solid #BA0126;
+	border: .5em solid #143642;
 	font-size: 1em;
 	line-height: 1.1em;
 	color: #2F2D2E;
-	background-color: #BA0126;
+	background-color: #143642;
 	background-image: url('../imagens/danca.png');
 	background-size: 17em 17em;
 	margin: 23px;
@@ -310,6 +310,45 @@ body {
 	top: 340px;
 	left: 140px;
 }
+
+.botao35 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #143642;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #143642;
+	background-image: url('../imagens/natacao.png');
+	background-size: 18em 18em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 44%;
+	height: 19em;
+	width: 19em;
+	position: relative;
+	top: 340px;
+	left: 340px;
+}
+
+.botao36 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/insc.png');
+	background-size: 9em 5em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 0%;
+	height: 6em;
+	width: 10em;
+	position: relative;
+	top: 100px;
+	left: 400px;
+}
+
 .botao41 {
 	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
 	border: .5em solid #BA0126;
@@ -342,6 +381,76 @@ body {
 	border-radius: 1%;
 	height: 45em;
 	width: 17em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao51 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/com.png');
+	background-size: 37em 10em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 13%;
+	height: 10em;
+	width: 37em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}
+.botao52 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/cont.png');
+	background-size: 37em 10em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 13%;
+	height: 10em;
+	width: 37em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}.botao53 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/sobr.png');
+	background-size: 37em 10em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 13%;
+	height: 10em;
+	width: 37em;
+	position: relative;
+	top: 340px;
+	left: 140px;
+}.botao54 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/men.png');
+	background-size: 37em 10em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 13%;
+	height: 10em;
+	width: 37em;
 	position: relative;
 	top: 340px;
 	left: 140px;
