@@ -5,21 +5,12 @@ body {
  background-image: url('../imagens/fundo.png');
 }
 .botao1 {
-	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
-	border: .5em solid #BA0126;
-	font-size: 1em;
-	line-height: 1.1em;
-	color: #2F2D2E;
-	background-color: #BA0126;
-	background-image: url('../imagens/requerimentos.png');
-	background-size: 17em 17em;
-	margin: 23px;
-	margin-bottom: 55px;
-	border-radius: 13%;
-	height: 17em;
-	width: 17em;
-	position: relative;
-	top: 340px;
+	border: .0em solid #BA0126;
+	background-color: transparent;
+	background-size: 8em 35em;
+	height: 9em;
+	width: 35em;
+	top: -80px;
 	left: 140px;
 }
 .botao11 {
@@ -310,45 +301,6 @@ body {
 	top: 340px;
 	left: 140px;
 }
-
-.botao35 {
-	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
-	border: .5em solid #143642;
-	font-size: 1em;
-	line-height: 1.1em;
-	color: #2F2D2E;
-	background-color: #143642;
-	background-image: url('../imagens/natacao.png');
-	background-size: 18em 18em;
-	margin: 23px;
-	margin-bottom: 55px;
-	border-radius: 44%;
-	height: 19em;
-	width: 19em;
-	position: relative;
-	top: 340px;
-	left: 340px;
-}
-
-.botao36 {
-	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
-	border: .5em solid #BA0126;
-	font-size: 1em;
-	line-height: 1.1em;
-	color: #2F2D2E;
-	background-color: #BA0126;
-	background-image: url('../imagens/insc.png');
-	background-size: 9em 5em;
-	margin: 23px;
-	margin-bottom: 55px;
-	border-radius: 0%;
-	height: 6em;
-	width: 10em;
-	position: relative;
-	top: 100px;
-	left: 400px;
-}
-
 .botao41 {
 	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
 	border: .5em solid #BA0126;
@@ -420,7 +372,8 @@ body {
 	position: relative;
 	top: 340px;
 	left: 140px;
-}.botao53 {
+}
+.botao53 {
 	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
 	border: .5em solid #BA0126;
 	font-size: 1em;
@@ -437,7 +390,8 @@ body {
 	position: relative;
 	top: 340px;
 	left: 140px;
-}.botao54 {
+}
+.botao54 {
 	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
 	border: .5em solid #BA0126;
 	font-size: 1em;
@@ -454,6 +408,79 @@ body {
 	position: relative;
 	top: 340px;
 	left: 140px;
+}
+.botao64 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #143642;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #143642;
+	background-image: url('../imagens/lig.png');
+	background-size: 19em 19em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 43%;
+	height: 20em;
+	width: 20em;
+	position: relative;
+	top: 1050px;
+	left: 290px;
+}
+.botao65 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #143642;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #143642;
+	background-image: url('../imagens/escrever.png');
+	background-size: 17em 17em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 23%;
+	height: 17em;
+	width: 17em;
+	position: relative;
+	top: 1050px;
+	left: 290px;
+}
+.botao35 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #143642;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #143642;
+	background-image: url('../imagens/natacao.png');
+	background-size: 18em 18em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 44%;
+	height: 19em;
+	width: 19em;
+	position: relative;
+	top: 340px;
+	left: 300px;
+}
+
+.botao36 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-image: url('../imagens/insc.png');
+	background-size: 9em 5em;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 0%;
+	height: 6em;
+	width: 10em;
+	position: relative;
+	top: 0px;
+	left: 400px;
 }
 .botao1:hover {
 	color: #2F2D2E;
@@ -526,6 +553,24 @@ footer {
  height:1743px;
  width:980px;	
  background-image: url('../imagens/configuracao.png');
+}
+.cont{
+ font-size: 18px;
+ height:1743px;
+ width:980px;	
+ background-image: url('../imagens/contato.png');
+}
+.sobre{
+ font-size: 18px;
+ height:1743px;
+ width:980px;	
+ background-image: url('../imagens/sobre.png');
+}
+.conv{
+ font-size: 18px;
+ height:1743px;
+ width:980px;	
+ background-image: url('../imagens/conversa.png');
 }
 .onoffswitch {
     position: relative; 
